@@ -5,8 +5,8 @@
 
 Program ini dapat jalan di Python 3.9-3.8-3.7
 
-Requirement : 
-> Install XAMPP, Pycharm, Python Libraries 
+Using : 
+> XAMPP, Pycharm, Python Libraries 
 
 # Add "flask_db" 
 * copy script SQL di bawah ini untuk membuat tabel master personil prs_mstr dan tabel image dataset img_dataset
