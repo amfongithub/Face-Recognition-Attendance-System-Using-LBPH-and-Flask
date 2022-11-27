@@ -44,10 +44,8 @@ Copy script SQL di bawah ini ke menu flask_db
   KEY `accs_date` (`accs_date`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1; 
 ```
+![flask_db](https://user-images.githubusercontent.com/35483191/204143051-9924c020-6dcc-433a-b5a1-7c57369c81dd.PNG)
 
-```![flask_db](https://user-images.githubusercontent.com/35483191/204143051-9924c020-6dcc-433a-b5a1-7c57369c81dd.PNG)
-
-```
 # Add This Library in Pycharm
 
 >1. flask
