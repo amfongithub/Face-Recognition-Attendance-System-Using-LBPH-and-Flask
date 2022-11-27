@@ -53,6 +53,7 @@ Copy script SQL di bawah ini ke menu flask_db
 >3. opencv-python
 >4. opencv-contrib-python
 >5. pillow
+
 apabila telah berhasil maka hasilnya akan seperti ini :
 ![libraries](https://user-images.githubusercontent.com/35483191/204143800-6a561e3b-c23b-4da3-8bcb-945260d7776e.PNG)
 - [x] **Done**
