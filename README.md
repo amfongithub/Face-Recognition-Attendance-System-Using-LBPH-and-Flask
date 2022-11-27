@@ -6,7 +6,7 @@ Program ini dapat jalan di Python 3.9-3.8-3.7
 Requirement : 
 > Install XAMPP, Pycharm, Python Libraries 
 
-# add "flask_db" 
+# Add "flask_db" 
 * copy script SQL di bawah ini untuk membuat tabel master personil prs_mstr dan tabel image dataset img_dataset
 
 ```
@@ -44,10 +44,10 @@ Copy script SQL di bawah ini ke menu flask_db
 ```
 # Add This Library To Your Project
 
-1. flask
-2. mysql-connector
-3. opencv-python
-4. opencv-contrib-python
-5. pillow
+>1. flask
+>2. mysql-connector
+>3. opencv-python
+>4. opencv-contrib-python
+>5. pillow
 
 - [x] **Done**
