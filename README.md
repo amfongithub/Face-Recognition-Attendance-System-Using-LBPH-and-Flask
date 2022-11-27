@@ -5,7 +5,7 @@
 
 Program ini dapat jalan di Python 3.9-3.8-3.7
 
-Using : 
+Using  : 
 > XAMPP, Pycharm, Python Libraries 
 
 # Add "flask_db" 
