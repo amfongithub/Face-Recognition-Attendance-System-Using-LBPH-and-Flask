@@ -45,7 +45,8 @@ Copy script SQL di bawah ini ke menu flask_db
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1; 
 ```
 
-```![image](https://user-images.githubusercontent.com/35483191/204142991-b2f6eddc-ab81-4d4c-b8d4-37e34d8480d2.png)
+```![flask_db](https://user-images.githubusercontent.com/35483191/204143051-9924c020-6dcc-433a-b5a1-7c57369c81dd.PNG)
+
 ```
 # Add This Library in Pycharm
 
