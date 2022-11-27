@@ -42,7 +42,7 @@ Copy script SQL di bawah ini ke menu flask_db
   KEY `accs_date` (`accs_date`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1; 
 ```
-# Add This Library To Your Project
+# Add This Library in Pycharm
 
 >1. flask
 >2. mysql-connector
