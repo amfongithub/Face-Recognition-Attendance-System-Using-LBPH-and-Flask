@@ -9,7 +9,7 @@ Using  :
 > XAMPP, Pycharm, Python Libraries 
 
 # Add "flask_db" 
-* copy script SQL di bawah ini untuk membuat tabel master personil prs_mstr dan tabel image dataset img_dataset
+* Copy script SQL di bawah ini untuk membuat tabel master personil prs_mstr dan tabel image dataset img_dataset
 
 ```
 CREATE TABLE `img_dataset` (
@@ -54,7 +54,8 @@ Copy script SQL di bawah ini ke menu flask_db
 >4. opencv-contrib-python
 >5. pillow
 
-apabila telah berhasil maka hasilnya akan seperti ini :
+* Apabila telah berhasil maka hasilnya akan seperti ini :
+
 ![libraries](https://user-images.githubusercontent.com/35483191/204143800-6a561e3b-c23b-4da3-8bcb-945260d7776e.PNG)
 - [x] **Done**
 
