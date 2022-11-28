@@ -57,3 +57,29 @@ Copy script SQL di bawah ini ke menu flask_db
 apabila telah berhasil maka hasilnya akan seperti ini :
 ![libraries](https://user-images.githubusercontent.com/35483191/204143800-6a561e3b-c23b-4da3-8bcb-945260d7776e.PNG)
 - [x] **Done**
+
+# Run Program 
+* Jalankan XAMPP phpmyadmin dan file main.py di Pycharm. Lalu klik link localhost dibawah ini 
+
+![run main](https://user-images.githubusercontent.com/35483191/204182998-8e2f797b-2c48-48fe-bfb2-fc6f10eb5ed4.png)
+
+* Setelah klik link maka akan muncul homepage seperti dibawah ini
+
+![homepage](https://user-images.githubusercontent.com/35483191/204183303-c0b7e665-2a48-49f9-bcb9-4ff13095777a.PNG)
+
+* Lalu pilih "Add Student" untuk menambahkan data mahasiswa baru, masukkan Nama dan Jurusan 
+
+![Add Student Page](https://user-images.githubusercontent.com/35483191/204183375-2a9e3ef6-c2ad-4979-b960-5531956eb9d2.PNG)
+
+* Setelah menambahkan data baru, data wajah telah diambil dan telah ditraining maka akan muncul seperti dibawah ini
+
+![Done add student](https://user-images.githubusercontent.com/35483191/204183433-6d8a35b3-d9b0-4cea-8b85-265c07908fac.PNG)
+
+* Setelah data valid ter record maka selanjutnya klik "Face Recognition" dan akan muncul seperti ini 
+
+![Face Recognition page](https://user-images.githubusercontent.com/35483191/204183479-7fdaa9ed-1706-4036-807e-ef8d0998e45d.PNG)
+
+
+
+
+
